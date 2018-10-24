@@ -1,5 +1,7 @@
 #!/bin/bash -xve
 #Written by Akira Tani
+#written by A. Tani
+31f06de11e2003a4f828b0e2a8646e5acad00097
 
 exec 2> /tmp/setup.log
 
